@@ -9,7 +9,7 @@ void main() => runApp(
         title: "Flutter приложение",
         home: Scaffold(
           appBar: AppBar(
-            backgroundColor: const Color(0xFFAE03E2),
+            backgroundColor: Color.fromARGB(255, 4, 72, 40),
             title: const Text("Заголовок"),
             centerTitle: true,
           ),
