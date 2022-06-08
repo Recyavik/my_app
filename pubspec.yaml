@@ -44,6 +44,3 @@ flutter:
     - family:  My_icons_v
       fonts:
       - asset: google_fonts/My_icons_v.ttf
-  - family:  Oswald_font
-      fonts:
-      - asset: google_fonts/Oswald.ttf
